@@ -1,0 +1,3 @@
+[submodule "modified:"]
+	path = modified:
+	url = https://github.com/activeadmin/activeadmin
