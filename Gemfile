@@ -49,3 +49,12 @@ end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
+
+# Project specific rubygems
+gem 'spring'
+gem 'activeadmin', github: 'activeadmin'
+gem 'devise'
+gem 'active_admin_editor', github: 'ejholmes/active_admin_editor'
+gem 'font-awesome-rails'
+gem 'bootstrap-sass', '~> 3.2.0'
+gem 'autoprefixer-rails'
